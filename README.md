@@ -1,4 +1,4 @@
-# CodeAlpha_Project_Network_Intrusion_Detection_System
+# Network_Intrusion_Detection_System
 - "ip a" to get ip and interface name
 
 ![2024-02-05 20_22_02-Ubuntu - VMware Workstation](https://github.com/AshikAhmed007/CodeAlpha_Project_Network_Intrusion_Detection_System/assets/44695318/0c0fe225-1dac-4e5c-a50e-d6c35e58636f)
